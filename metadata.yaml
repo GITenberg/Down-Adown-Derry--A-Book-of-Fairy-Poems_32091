@@ -25,6 +25,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Walter_de_la_Mare
 description: Charming collection of fairy poems by Walter de la Mare featuring more
   than 60 illustrations by Caldecott Medal winning artist Dorothy Lathrop.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32091#Down-Adown-Derry--A-Book-of-Fairy-Poems
 gutenberg_issued: '2010-04-22'
 gutenberg_type: Text
 identifiers:
